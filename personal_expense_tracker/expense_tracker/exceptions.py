@@ -1,0 +1,2 @@
+class InvalidExpenseError(Exception):
+    pass 
